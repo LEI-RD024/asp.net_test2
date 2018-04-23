@@ -1,0 +1,12 @@
+E:\资源包\VS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+E:\资源包\VS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+E:\资源包\VS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+E:\资源包\VS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+E:\资源包\VS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+E:\资源包\VS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+E:\资源包\VS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+E:\资源包\VS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+E:\资源包\VS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+E:\资源包\VS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+E:\资源包\VS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+E:\资源包\VS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll.config
